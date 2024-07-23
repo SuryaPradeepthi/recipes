@@ -1,2 +1,2 @@
 # recipes
-Created a web page to display recipes in restaurants
+Created a simple web page to display recipes in restaurants
